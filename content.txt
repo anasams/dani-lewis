@@ -1,0 +1,7 @@
+Links:
+https://fonts.google.com/specimen/Inconsolata
+
+Colors:
+Red: #e84e3c
+Yellow: #f3c043
+
